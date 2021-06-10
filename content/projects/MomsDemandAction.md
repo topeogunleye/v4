@@ -1,14 +1,14 @@
 ---
 date: '2019-11-12'
-title: 'Moms Demand Action Mobile App'
-github: ''
-external: 'https://www.upstatement.com/work/moms-demand-action/'
-ios: 'https://apps.apple.com/us/app/demand-action/id1475502876'
-android: 'https://play.google.com/store/apps/details?id=com.momsdemandaction.app'
+title: 'Electronics Shopping Mall'
+github: 'https://github.com/topeogunleye/proshop_mern'
+external: 'https://github.com/topeogunleye/proshop_mern'
+ios: 'https://github.com/topeogunleye/proshop_mern'
+android: 'https://github.com/topeogunleye/proshop_mern'
 tech:
-  - NativeScript Vue
-  - iOS
-  - Android
-company: 'Upstatement'
+  - React
+  - Paypal API
+  - Redux
+company: 'freelancer'
 showInProjects: false
 ---
