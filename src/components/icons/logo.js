@@ -5,6 +5,10 @@ const IconLogo = () => (
     <title>Logo</title>
     <g transform="translate(-8.000000, -2.000000)">
       <g transform="translate(11.000000, 5.000000)">
+        <path
+          d="M 54 36 L 27 36 L 27 30 L 54 30 Z Z M 37 60 L 44 60 L 44 36 L 37 36 Z"
+          fill="currentColor"
+        />
         <polygon
           id="Shape"
           stroke="currentColor"
