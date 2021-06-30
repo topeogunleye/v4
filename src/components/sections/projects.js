@@ -229,12 +229,7 @@ const Projects = () => {
                 </a>
               )}
               {external && (
-                <a
-                  href={external}
-                  aria-label="External Link"
-                  className="external"
-                  target="_blank"
-                  rel="noreferrer">
+                <a href={external} aria-label="External Link" className="external">
                   <Icon name="External" />
                 </a>
               )}
@@ -242,9 +237,7 @@ const Projects = () => {
           </div>
 
           <h3 className="project-title">
-            <a href={external} target="_blank" rel="noreferrer">
-              {title}
-            </a>
+            <a href={external}>{title}</a>
           </h3>
 
           <div className="project-description" dangerouslySetInnerHTML={{ __html: html }} />
