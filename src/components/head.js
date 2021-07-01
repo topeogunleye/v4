@@ -59,7 +59,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:description" content={seo.description} />
       <meta name="twitter:image" content={seo.image} />
 
-      <meta name="google-site-verification" content="vFcbuJt7YJZXQe2Y5LmBW-UWeWRmyD6uHXD328NlMUM" />
+      <meta name="google-site-verification" content="8Gai17t4NPda_OrOlMM3Fbdz9DivuBLDghicuhihVbQ" />
     </Helmet>
   );
 };

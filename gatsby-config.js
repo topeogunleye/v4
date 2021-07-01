@@ -5,7 +5,7 @@ module.exports = {
     title: 'Tope Leye',
     description:
       'Tope Leye is a software engineer who specializes in building exceptional websites and web applications.',
-    siteUrl: 'https://topeleye.netlify.app/', // No trailing slash allowed!
+    siteUrl: 'https://topeleye.com/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@topeogunleye21',
   },
@@ -20,13 +20,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-<<<<<<< HEAD
-        name: 'Brittany Chiang',
-        short_name: 'Brittany Chiang',
-=======
         name: 'TopeLeye',
         short_name: 'TopeLeye',
->>>>>>> b161c90 (Adds my files and images)
         start_url: '/',
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,

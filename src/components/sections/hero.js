@@ -64,7 +64,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I help businesses increase their sales online</h3>;
   const four = (
     <p>
-      Last year. I helped e-Commerce clients double their revenue. Focus on running your business, while I focus on growing your business.
+     Focus on running your business, while I focus on growing your business.
     </p>
   );
   const five = (

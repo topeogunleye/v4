@@ -1,12 +1,13 @@
 ---
-date: '2018-04-01'
+date: '2019-10-01'
 title: 'Volunteer'
-company: 'JAN'
+company: 'TQ STEM'
 location: 'Nigeria'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+range: 'Nov - Dec 2019'
+url: 'https://tqstem.org/'
 ---
 
--  Teach 95 secondary school students how to code using Google CS First and Scratch Programming Language.
--  Increase students participation to 100% resulting in all students completing 100% of their scratch projects and 100% of their curriculum.
+- Lead part of a team that taught 750 secondary school students how to code and practice Online Safety Using Google CS First Curriculum and Resources.
+- Increase students participation to 100% resulting in all students completing 100% of their scratch projects and 100% of their curriculum
+
 
