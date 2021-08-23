@@ -1,9 +1,9 @@
 ---
-date: '2019-05-19'
+date: '2018-05-19'
 title: 'Community Volunteer'
 company: 'NYSC'
 location: 'Abuja, Nigeria'
-range: 'April 2018 - March 2019'
+range: 'April 2018` - March 2019'
 url: 'https://www.nysc.gov.ng/'
 ---
 
