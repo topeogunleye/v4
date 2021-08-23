@@ -4,7 +4,7 @@ title: 'Freelancer'
 company: 'Upwork'
 location: 'Lagos, Nigeria'
 range: 'May 2019 - Present'
-url: 'https://www.topeleye.com/'
+url: 'https://www.upwork.com/freelancers/~01e6d0c356a46fbae0'
 ---
 
 - Replicate and create Web Designs into Web Apps with HTML, CSS, and JavaScript.
