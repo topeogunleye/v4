@@ -1,10 +1,10 @@
 ---
-date: '2021-05-29'
+date: '2021-07-23'
 title: 'Freelancer'
-company: 'JS Engineer'
+company: 'Upwork'
 location: 'Lagos, Nigeria'
 range: 'May 2019 - Present'
-url: 'https://www.upstatement.com/'
+url: 'https://www.topeleye.com/'
 ---
 
 - Replicate and create Web Designs into Web Apps with HTML, CSS, and JavaScript.
