@@ -4,7 +4,7 @@ title: 'Freelancer'
 company: 'Upwork'
 location: 'Lagos, Nigeria'
 range: 'May 2019 - Present'
-url: 'https://www.topeleye.com/'
+url: 'https://www.upwork.com/freelancers/~01e6d0c356a46fbae0'
 ---
 
 -  Teach 95 secondary school students how to code using Google CS First and Scratch Programming Language.
