@@ -1,10 +1,10 @@
 ---
-date: '2019-11-01'
-title: 'Volunteer'
-company: 'JAN'
-location: 'Nigeria'
-range: 'Jan - April 2018'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021-07-23'
+title: 'Freelancer'
+company: 'Upwork'
+location: 'Lagos, Nigeria'
+range: 'May 2019 - Present'
+url: 'https://www.topeleye.com/'
 ---
 
 -  Teach 95 secondary school students how to code using Google CS First and Scratch Programming Language.
