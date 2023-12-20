@@ -143,10 +143,10 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I've had the privilege of working at{' '}
-              <a href="https://www.microverse.org/">A Software Development School</a>,{' '}
-              <a href="https://intellectualapps.com/">A Software Building Company</a>,{' '}
-              <a href="https://www.tqstem.org/home/">A Non Profit Organization</a>, and{' '}
-              <a href="https://ja-nigeria.org/">A Non Profit Organization</a>. My main focus these
+              <a href="https://www.microverse.org/">a software development school</a>,{' '}
+              <a href="https://intellectualapps.com/">a software building company</a>,{' '}
+              <a href="https://www.tqstem.org/home/">a non profit organization</a>, and{' '}
+              <a href="https://ja-nigeria.org/">another non profit organization</a>. My main focus these
               days is building large react websites and web applications as{' '}
               <a href="https://www.upwork.com/freelancers/~01e6d0c356a46fbae0">a freelancer</a> for
               a variety of clients.
