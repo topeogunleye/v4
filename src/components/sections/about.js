@@ -65,12 +65,11 @@ const StyledPic = styled.div`
 
     &:hover,
     &:focus {
-      background: transparent;
       outline: 0;
+      transform: translate(-4px, -4px);
 
       &:after {
-        top: 15px;
-        left: 15px;
+        transform: translate(8px, 8px);
       }
 
       .img {
@@ -107,8 +106,8 @@ const StyledPic = styled.div`
 
     &:after {
       border: 2px solid var(--green);
-      top: 20px;
-      left: 20px;
+      top: 14px;
+      left: 14px;
       z-index: -1;
     }
   }
@@ -143,17 +142,18 @@ const About = () => {
             </p>
 
             <p>
-              Fast-forward to today, and I've had the privilege of working with{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>,{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>,{' '}
-              <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>, and{' '}
-              <a href="https://reactjs.org/docs/getting-started.html">React</a>. My main focus these
+              Fast-forward to today, and I've had the privilege of working at{' '}
+              <a href="https://www.microverse.org/">a software development school</a>,{' '}
+              <a href="https://intellectualapps.com/">a software building company</a>,{' '}
+              <a href="https://www.tqstem.org/home/">a non profit organization</a>, and{' '}
+              <a href="https://ja-nigeria.org/">another non profit organization</a>. My main focus these
               days is building large react websites and web applications as{' '}
               <a href="https://www.upwork.com/freelancers/~01e6d0c356a46fbae0">a freelancer</a> for
               a variety of clients.
             </p>
 
-            <p>Here are a few technologies I've been working with recently:</p>
+           
+            <p>Here are a few technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
