@@ -7,7 +7,7 @@ module.exports = {
       'Tope Leye is a software engineer who specializes in building exceptional websites and web applications.',
     siteUrl: 'https://topeleye.com/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@topeogunleye21',
+    twitterUsername: '@tope_loba',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
