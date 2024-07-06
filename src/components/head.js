@@ -57,10 +57,7 @@ const Head = ({ title, description, image }) => {
       <meta name="twitter:creator" content={twitterUsername} />
       <meta name="twitter:title" content={seo.title} />
       <meta name="twitter:description" content={seo.description} />
-      <meta name="twitter:image" content={seo.image} />
-
-      <meta name="google-site-verification" content="G-1PHK2FZD56" />
-      
+      <meta name="twitter:image" content={seo.image} />      
     </Helmet>
   );
 };
